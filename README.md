@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm TC! 👋
 
-<!--
-**yorten/yorten** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a technology enthusiast and independent software builder based in Louisiana, USA.
 
-Here are some ideas to get you started:
+I enjoy creating practical applications, automating repetitive tasks, and exploring how artificial intelligence can help turn ideas into working software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technologies & Tools
+
+- **Development:** Python, TypeScript, JavaScript, Next.js, React
+- **Database & Backend:** PostgreSQL, Supabase
+- **Automation:** n8n, AI-assisted development
+- **Infrastructure:** Linux, Docker, GitHub, Vercel
+
+## 🚀 What I'm Working On
+
+- Developing practical web applications
+- Building AI-assisted automation workflows
+- Exploring self-hosted infrastructure and monitoring
+- Improving software development and testing processes
+
+Most of my active development projects are maintained in private repositories.
+
+## 🌱 Always Learning
+
+I'm passionate about technology, problem-solving, and continuously expanding my skills through real-world projects.
